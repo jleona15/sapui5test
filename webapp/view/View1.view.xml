@@ -1,0 +1,10 @@
+<mvc:View
+    controllerName="project2.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc"
+    displayBlock="true"
+    xmlns="sap.m"
+>
+
+    <Input value="{testPanel>/table/entry1}" description="Test Value: {testPanel>/table/entry1}" valueLiveUpdate="true" width="30%"/>
+
+</mvc:View>
